@@ -1,0 +1,52 @@
+Alapvető használat
+
+Nyissuk meg a programot. Ha megjelent az ablak, akkor kattintsunk a „Fájl megnyitása” gombra. 
+A megjelenő ablakban válasszuk ki a feldolgozandó pdf-et. Ha ezzel megvagyunk, akkor kattintsunk a „megnyitás” gombra. 
+Ezután kattintsunk a „Mentés helye” gombra. Ezután a megjelenő ablakban válasszuk ki, hogy hová szeretnénk menteni és nevezzük el a fájlt. 
+A „mentés” gombra kattintva léphetünk tovább. A beállítások menü az induláskor alaphelyzetben van. 
+Ha szeretnénk módosítsuk a megfelelő választó gombokra kattintva. Ezután kattintsunk az indítás gombra. 
+Ekkor megkezdődik a fájl feldolgozása, amit egy állapotjelző sáv mutat nekünk. 
+Amikor a program elkészült megjelenik egy üzenet a „Kész” felirattal.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Fájl megnyitása
+
+Kattintsunk a „Fájl megnyitása” gombra. A megjelenő ablakban válasszuk ki a feldolgozandó pdf-et. 
+Ha ezzel megvagyunk, akkor kattintsunk a „megnyitás” gombra
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Mentés helyének kiválasztása
+
+Kattintsunk a „Mentés helye” gombra. Ezután a megjelenő ablakban válasszuk ki, hogy hová szeretnénk menteni és nevezzük el a fájlt. 
+A „mentés” gombra kattintva léphetünk tovább.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Előnézetek lapozása
+
+A programban lehetőség van előnézetek megtekintésére. A pdf-et bal oldalon láthatjuk, tőle jobbra pedig a kimeneti előnézeteket. 
+A pdf alatti nyíl gombok segítségével lapozhatunk a pdf oldalain. 
+Ezzel együtt lapoznak a kimeneti előnézetek is amik tartalmaz mindig az aktuális pdf oldalnak megfelelően kerül kiszámításra.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Paraméterek beállítása
+
+Lehetőségünk van beállítani, hogy milyen módon történjen a feldolgozás.
+Jelenleg a következők közül választhatunk
+•	betöltési módok:
+•	képek exportálása (a pdfben található képeket másolja ki, gyorsabb, de csak akkor működik megfelelően, ha oldalanként egy kép található)
+•	oldalak leképezése (a teljes oldalt minden tartalommal együtt leképez, lassabb, de megbízhatóbb. 
+	Akkor válasszuk ezt ha nem megfelelően jelenik meg a pdf az előnézeten)
+•	Ocr módok
+•	eredeti (a pdfben található eredeti ocr-t használjuk fel)
+•	Tesseract-ocr (újra ocr-ezzük a dokumentumot)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Feldolgozás elindítása
+
+Elöször nyissunk meg egy pdf-et és állítsuk be a mentés útvonalát. 
+Ha ezekkel megvagyunk. akkor az indítás gombra kattintva indíthatjuk el a folyamatot
